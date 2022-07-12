@@ -1,6 +1,7 @@
 package services.map;
 
 import model.Owner;
+import org.springframework.stereotype.Service;
 import services.OwnerService;
 
 import java.util.Set;

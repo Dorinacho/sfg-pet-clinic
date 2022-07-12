@@ -1,8 +1,7 @@
 package services;
 
 import model.Owner;
-
-import java.util.Set;
+import org.springframework.context.annotation.Bean;
 
 public interface OwnerService extends CrudService<Owner, Long>{
 
